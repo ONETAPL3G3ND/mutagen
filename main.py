@@ -1,3 +1,4 @@
+#https://github.com/ONETAPL3G3ND
 import mutagen
 
 mfile = mutagen.File("example.mp3")
